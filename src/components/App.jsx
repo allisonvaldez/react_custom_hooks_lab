@@ -1,4 +1,7 @@
+// Import necessary components
 import Form from "./Form";
+
+// Create a Main App component
 function App() {
   return (
     <div>
@@ -8,4 +11,5 @@ function App() {
   );
 }
 
+// Make it globally available
 export default App
